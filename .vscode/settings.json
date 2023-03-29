@@ -18,5 +18,7 @@
     "search.exclude": {
         "**/node_modules": true,
         "static": true
-    }
+    },
+    "appService.defaultWebAppToDeploy": "/subscriptions/6fa8eb6f-e2f1-493f-b01d-d47253728c9f/resourceGroups/rg-openaisearch0329-4/providers/Microsoft.Web/sites/app-backend-5iufksgywghwe",
+    "appService.deploySubpath": "."
 }

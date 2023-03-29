@@ -17,6 +17,9 @@
     "openAiResourceGroupName": {
       "value": "${AZURE_OPENAI_RESOURCE_GROUP}"
     },
+    "openAiResourceGroupLocation": {
+      "value": "southcentralus"
+    },
     "openAiSkuName": {
       "value": "S0"
     },
